@@ -1,4 +1,9 @@
-# GETTING STARTED
+# Uploader System
+
+## ABOUT
+Sistema de upload de imagens na WEB, para a persistencia de imagens são usados recursos do mongodb e express, o UI é feito utilizando o framework reactjs.
+
+## GETTING STARTED
 
 ### Clone github project
 ```md
