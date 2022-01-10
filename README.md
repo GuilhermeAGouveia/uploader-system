@@ -19,7 +19,8 @@ npm install -y
 ```
 
 3. Instale o banco de dados NO-SQL Mongodb, [tutorial](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-debian/)
-4. Execute com o comando:
+4. Não se esqueça de executar o daemon mongod com `sudo service mongod start` e verificar seu status com `sudo service mongod status`
+5. Execute com o comando:
 ```md
 npm install -y
 ```
